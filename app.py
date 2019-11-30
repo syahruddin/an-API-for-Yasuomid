@@ -4,7 +4,6 @@ import json
 from flask import request, jsonify ,request
 
 app = flask.Flask(__name__)
-app.config["DEBUG"] = True
 
 
 #masukin api key disini, ingatkan untuk ganti tiap 24 jam
