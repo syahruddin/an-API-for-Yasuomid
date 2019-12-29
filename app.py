@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 
 #masukin api key disini, ingatkan untuk ganti tiap 24 jam
-apikey = 'RGAPI-f34bdd06-2ba3-41d2-9f38-662469768e35'
+apikey = 'RGAPI-1f977d83-04af-422a-9051-cfe387dd12a9'
 
 
 #home, kosong
